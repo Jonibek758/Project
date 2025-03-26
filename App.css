@@ -1,0 +1,41 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    font-family:cursive;
+    box-sizing: border-box;
+    color:white;
+    background:rgba(0, 0, 0, 0.502);
+    
+}
+.news{
+  width:1005;
+  height:100px;
+  display: flex;
+  align-items: center;
+  background-color:rgb(43, 42, 42);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  padding:20px 30px;
+}
+.news button{
+    width:170px;
+    height:40px;
+    outline:none;
+    border:none;
+    margin-left:20px;
+    border-radius:10px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+    background-color:rgb(82, 145, 216);
+    color:white;
+}
+.eads{
+    width:100%;
+    height:628px;
+    padding:20px 20px;
+    background-color:rgb(77, 141, 94);
+}
+.page{
+    width:100%;
+    height:auto;
+    padding:30px 30px;
+}
